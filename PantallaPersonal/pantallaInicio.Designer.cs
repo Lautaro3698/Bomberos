@@ -282,7 +282,7 @@
             this.btnCargarTarea.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnCargarTarea.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCargarTarea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCargarTarea.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnCargarTarea.ForeColor = System.Drawing.Color.DarkCyan;
             this.btnCargarTarea.Location = new System.Drawing.Point(580, 241);
             this.btnCargarTarea.Margin = new System.Windows.Forms.Padding(4);
             this.btnCargarTarea.Name = "btnCargarTarea";
@@ -310,7 +310,7 @@
             this.btnMarcarSalida.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnMarcarSalida.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMarcarSalida.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMarcarSalida.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnMarcarSalida.ForeColor = System.Drawing.Color.DarkSalmon;
             this.btnMarcarSalida.Location = new System.Drawing.Point(235, 232);
             this.btnMarcarSalida.Margin = new System.Windows.Forms.Padding(4);
             this.btnMarcarSalida.Name = "btnMarcarSalida";
